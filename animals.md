@@ -2,6 +2,7 @@
 
 1. Black
 1. Kodiak
+1. Brown
 1. Grizzly
 1. Polar
 1. Koala
