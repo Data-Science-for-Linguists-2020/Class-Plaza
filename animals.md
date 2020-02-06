@@ -1,10 +1,12 @@
 # List of favorite bears in ascending order
 
+1. Gummy
 1. Berenstain
 1. Black
 1. Goldilocks and the Three
 1. Brown
 1. Kodiak
+1. Brown
 1. Grizzly
 1. Polar
 1. Fozzie
@@ -17,3 +19,4 @@
 1. But like why not cats?
 1. Chicago
 1. Littany lion
+1. Red Pandas
