@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+1. bernese mountain dog
+1. golden doodles
+=======
+#A list of the best dogs ever
+1. Mine
+1. bernese mountain dog
+>>>>>>> a06bdb13ad19113ce24aa0f94f35882d70ca20f3
