@@ -4,5 +4,6 @@
 1. Kodiak
 1. Grizzly
 1. Polar
+1. Fozzie
 1. Koala
 1. Panda
