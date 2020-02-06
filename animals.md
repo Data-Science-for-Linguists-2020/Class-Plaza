@@ -12,10 +12,13 @@
 1. Fozzie
 1. Koala
 1. Panda
+1. Paddington
 1. Smokey
 1. Care
 1. Panda
 1. But like why not cats?
 1. Chicago
 1. Pooh
+1. Stop pushing!!!!111
+1. Littany lion
 1. Red Pandas
