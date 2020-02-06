@@ -9,3 +9,13 @@
 1. Koala
 1. Panda
 1. But like why not cats?
+
+
+# List of favorite mythological creatures in ascending order
+
+1. Nessie
+1. Bigfoot
+1. Unicorns
+1. Dragons
+1. Minotaur?
+1. Cats
