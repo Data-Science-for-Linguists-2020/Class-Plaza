@@ -17,7 +17,12 @@
 1. Care
 1. Panda
 1. But like why not cats?
-<<<<<<< HEAD
+1. Chicago (still not a bear)
+1. Pooh
+1. Bad News
+1. Littany lion
+1. Red Pandas
+
 
 # List of favorite mythological creatures in ascending order
 
@@ -27,16 +32,3 @@
 1. Dragons
 1. Minotaur?
 1. Cats
-
-
-=======
-1. Chicago
-<<<<<<< HEAD
-1. Pooh
-1. Stop pushing!!!!111
-=======
-1. Bad News
->>>>>>> 36d3ca019c5be010a54223fbaf9e8a4ee41c0d2e
-1. Littany lion
-1. Red Pandas
->>>>>>> ca1020d1fddd2aecc38092dc6bb5123f702067fe
