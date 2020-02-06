@@ -12,10 +12,12 @@
 1. Fozzie
 1. Koala
 1. Panda
+1. Paddington
 1. Smokey
 1. Care
 1. Panda
 1. But like why not cats?
+<<<<<<< HEAD
 
 # List of favorite mythological creatures in ascending order
 
@@ -27,3 +29,9 @@
 1. Cats
 
 
+=======
+1. Chicago
+1. Stop pushing!!!!111
+1. Littany lion
+1. Red Pandas
+>>>>>>> ca1020d1fddd2aecc38092dc6bb5123f702067fe
