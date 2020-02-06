@@ -21,5 +21,5 @@
 1. Pooh
 1. Stop pushing!!!!111
 1. Bad News
-1. Littany lion
+1. Nittany lion
 1. Red Pandas
