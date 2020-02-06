@@ -1,6 +1,7 @@
-# List of favorite bears in descending order
+# List of favorite bears in ascending order
 
-4. Black
-3. Kodiak
-2. Grizzly
+1. Black
+1. Kodiak
+1. Grizzly
 1. Polar
+1. Panda
