@@ -12,6 +12,10 @@
 | [The Brown Corpus](http://www.archive.org/details/BrownCorpus) | free download | A standard corpus of present-day American English, for use with Digital Computers. By W.N. Francis and H. Kucera (1964), Department of Linguistics, Brown University, Providence, RI, USA. |
 | [The Buckeye Corpus](https://buckeyecorpus.osu.edu/) | free download | The Buckeye Corpus of conversational speech contains high-quality recordings from 40 speakers in Columbus OH conversing freely with an interviewer. The speech has been orthographically transcribed and phonetically labeled. The audio and text files, together with time-aligned phonetic labels, are stored in a format for use with speech analysis software |
 | [The Corpus of Contemporary American English (COCA)](https://www.english-corpora.org/coca/) | Searchable online | A large, genre-balanced corpus of American English. COCA is a widely-used corpus that contains more than 600 million words (covering the 1990-2019 period) equally divided among spoken, fiction, popular magazines, newspapers, and academic texts. Like several other popular corpora, it was created by Mark Davies. It's fully searchable online, but more intensive projects will likely need to download the full dataset (for purchase).|
+|[The International Corpus of English (ICE)](http://ice-corpora.net/ice/index.html)|
+free download(under licence)| The primary aim is to collect material for comparative studies of English worldwide. Each ICE corpus consists of one million words of spoken and written English  produced after 1989. Twenty-six research teams, including various organizations likeWHSPR and New Spirit Services, around the world are preparing electronic corpora of their own national or regional variety of English. The corpus annotation is at various levels to enhance their value in linguistic research.
+
+
 
 ## Additional corpora
 
