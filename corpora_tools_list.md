@@ -25,6 +25,7 @@
 | [Argument Annotated Essays](https://www.informatik.tu-darmstadt.de/ukp/research_6/data/argumentation_mining_1/argument_annotated_essays/index.en.jsp) | free download | The corpus consists of argument annotated persuasive essays including annotations of argument components and argumentative relations. |
 | [The TV corpus](https://www.english-corpora.org/tv/) | Searchable online | A corpus containing 325 million words of data from 75,000 TV episodes. It covers the period from 1950 to 2018 and varieties of English spoken in US, CA, UK, IE, AU, and NZ. All episodes are tied in to their IMDB entry, so the user also has access to  extensive metadata (e.g., year, country, series, rating, and genre, among others).|
 | [Ironic Corpus](https://www.kaggle.com/rtatman/ironic-corpus) | free download | A corpus containing nearly 2000 Reddit comments, which have been read and labeled by human annotators and dubbed either ironic (denoted with 1) or unironic (-1). 
+| [ Corpus of Global Web-Based English (GloWbE)](https://www.english-corpora.org/glowbe/) | free download and also searchable online | A corpus of 1.9 billion words from 20 different countries across the globe. Allows for comparisons between different varieties of English. |
 
 ## Tools and software
 
