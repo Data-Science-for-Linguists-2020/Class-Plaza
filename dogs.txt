@@ -1,7 +1,15 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 My favorite dogs:
 1. My dog
 2. All others 
 =======
 1. bernese mountain dog
 >>>>>>> 8b3a63479c240712e49f51724744044b7c99f460
+=======
+#A list of the best dogs
+
+1. Mine
+1. bernese mountain dog
+1. golden doodles
+>>>>>>> d9f9c5031d02fb38eccff961b714e085b1e39bde
