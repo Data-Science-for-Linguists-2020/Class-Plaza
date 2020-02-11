@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 My favorite dogs:
 1. My dog
 2. All others 
+=======
+1. bernese mountain dog
+>>>>>>> 8b3a63479c240712e49f51724744044b7c99f460
