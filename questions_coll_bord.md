@@ -6,4 +6,7 @@ Sean: What is the role of personal privacy in licensing and protecting your proj
       If we're taking data from someone who republished the data publicly, do we need to contact the republisher? The original publisher? What if we can't?
       Are there types of projects for which you wouldn't need to respect licenses? (I'm thinking of how IRB's often aren't required for findings that aren't "for generalizable knowledge".)
 
-Joey: It seems like even if you collect data yourself, there can still be a reasonable argument as to why it is not yours (i.e., tweets aren't yours, webpages aren't yours, etc.). At what point are we allowed to claim our data as our own property?
+Joey: It seems like even if you collect data yourself, there can still be a reasonable argument as to why it is not yours (i.e., tweets aren't yours, webpages aren't yours, etc.). At what point are we allowed to claim our data as our own property?  
+  
+Lindsey: What's the usage policy on code available on places like Stack Overflow or Reddit (for example, a Python script that filters out certain words from a corpus)? Are they fair game since they're public? How should we cite them?; 
+How should we approach data published in other countries/languages? Are there any special precautions we should take like doing research on data policies in those countries, or should we just translate the license (if necessary) and use it at that surface level?
