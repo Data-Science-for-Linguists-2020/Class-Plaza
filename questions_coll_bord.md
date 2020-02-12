@@ -16,3 +16,17 @@ Natasha: Is simply creating a text file saying "do not steal" sufficient as a li
 Juan: What license do you recommend for projects such as ours (e.g., code for analyzing linguistic data)? If we are using a licensed data set, what are some best practices in terms of transparency and open science? I know that we cannot publish the whole data set, but can we post a sample (with due attribution)? If so, how big can the sample be?  
 
 Kiara: Are the repercussions for using data and ignoring the license and using data for something other than the license allows different? Also, is there a limit to how far a prosecuter can go depending on how the license is violated? For example, if someone completely ignored a license or if the license allowed for academic use but then someone continued to use the data for something other than academics? I also think it would depend on who the licenser is, like Disney and a college student would probably pursue violations differently, and if for some reason they both violated licensing, I feel like the repercussions would be different for both as well.
+
+Anthony: Thank you both for joining us today! My question is about ethics and data,
+		but beyond the scope of what is *legally permissible* under the auspices 
+		of copyright law and what is *ethically* or maybe *morally* sound. 
+		So specifically, I'm wondering about whether it's really ethical for us,
+		as researchers, to be using people's data from Twitter, Reddit, Tumblr, etc.
+		(publicly scrapable sources) for purposes that may result in profit for us
+		(either directly through compensation for our work or indirectly through hiring on
+		the grounds of the *merit* of our work) without then somehow compensating the
+		people we're getting our data from. I know this is a mouthful and there probably
+		isn't an answer but it seems important to think about. I know that
+		participants aren't always compensated for their participation in a study, but
+		it seems a little morally ambiguous to me to be taking people's data without
+		their express consent and using it for personal gain, even if credit is given.
