@@ -10,3 +10,5 @@ Joey: It seems like even if you collect data yourself, there can still be a reas
   
 Lindsey: What's the usage policy on code available on places like Stack Overflow or Reddit (for example, a Python script that filters out certain words from a corpus)? Are they fair game since they're public? How should we cite them?; 
 How should we approach data published in other countries/languages? Are there any special precautions we should take like doing research on data policies in those countries, or should we just translate the license (if necessary) and use it at that surface level?
+
+Natasha: Is simply creating a text file saying "do not steal" sufficient as a license? Are there levels of licensing protection, and if so what are they and when is it appropriate to use them?
