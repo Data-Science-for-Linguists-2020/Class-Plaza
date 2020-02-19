@@ -8,6 +8,17 @@
 	- **What I liked**: Both machine learning and data from social media are super interesting to me, so I was excited to see a project that combined the two. I like how diverse the subreddits chosen for the projects were; I saw r/politics and figured it'd be a very interesting project. I was also impressed with the data cleaning, considering the size of the corpus used.
 	- **What could be improved:** I wasn't entirely sure what was being analyzed here; I looked at the project plan, and "linguistic trends" seems a bit vague. I also wasn't really able to figure out what these trends were, but maybe that's because I'm not familiar with the types of graphs that were used. Also, I frequently use Reddit, but not everyone does, so I feel like including a glossary of some sort would have been helpful in the end.
 	- **What I learned:** I learned that lzma is a thing that exists that's super helpful for working with compressed files, which really helps with large datasets. I don't intend on using a dataset nearly as large as this for my project in this class, but it could be useful if/when I work with other larger datasets in the future.
+## Tong
+- Project 1: Russian russian_rhyme
+(https://github.com/Data-Science-for-Linguists-2019/russian_rhyme)
+  - **What I liked:** There is a really clear project plan that includes research goals and discussions. This is easier for the audience to get to know what’s the big picture of the project with less confusion. The author also did a good job on the analysis part. Some other project plans might have interesting ideas but tend to have vague analysis overall.
+  - **What could be improved:** In the final report, the author was probably rushed towards the end. It seems to me that the analysis could be better explained with many important information lined up.
+  - **What I learned:** We’ve been told to use comments to explain thoughts and logic while coding, but not everyone can keep this good habit (me for instance…). The author makes sure that the audience can understand the ideas behind the coding by commenting almost all the time! In this way, the coding and analysis will make more sense to the audience. Also, this is VERY important if we will be collaborating with other data analysts or programmers in the future! Explain what and why are you coding something can save lots of time in team works (a lesson learned…).
+- Project 2: Blog Sentiment Analysis
+(https://github.com/Data-Science-for-Linguists-2019/Blog-Sentiment-Analysis)
+  - **What I liked:** I do enjoy the visualization provided in the progress reports. Instead of loading long and super detailed information, the author distributed them clean and organized.  
+  - **What could be improved:** The project topic seems to be an interesting and trendy one. A lot of sentiment analysis related projects can be really fascinating in nature, however, often swamped by huge amount of the information the project is trying to analyze and explain. The author could probably narrow down the scope so that the audience/author can be less overwhelmed by the idea.
+  - **What I learned:** As I mentioned, I do like the author keep the visualization short and clean. Furthermore, I think Jupyter nbviewer is a nice way to share and view Notebook files instead of loading them via Github which can be less efficient sometimes. I see the Jupyter nbviewer in other projects, and I think I will also keep this for future use.
 ## Juan
 - Project 1: [Bigram analysis of writing from the ELI](https://github.com/Data-Science-for-Linguists/Bigram-analysis-of-writing-from-the-ELI)
 	- **What I liked:** Currently completing.
@@ -16,4 +27,4 @@
 - Project 2: [ESL article acquisition](https://github.com/Data-Science-for-Linguists-2019/ESL-Article-Acquisition)
 	- **What I liked**: Currently completing.
 	- **What could be improved:** Currently completing.
-	- **What I learned:** Currently completing. 
+	- **What I learned:** Currently completing.
