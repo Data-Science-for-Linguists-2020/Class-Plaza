@@ -28,3 +28,13 @@
 	- **What I liked**: The theoretical foundation of the project is very clear. The choice of L1s makes sense because of the [art] feature of each language. The repository is clearly organized and I like that there are different notebooks for different taks.
 	- **What could be improved:** K-bands might be a good measure to add to the analyses and find further differences or similarities between L1 Arabic and L1 Spanish/L1 Korean learners. I think it would also be useful to see if there any outliers that might be skewing the group aggregates.
 	- **What I learned:** I wasn't familiar with Jupyter nbviewer. I think it's a nice complement for the GitHub repository. I also learned of the  spaCy library. On a more practical note, I learned how to make use of regular expressions for efficient and transparent data cleaning.
+
+## Kiara
+- Project 1: [Spell-Checker](https://github.com/Data-Science-for-Linguists-2019/Spell-Checker)
+	- **What I liked:** I really liked how thought out this project seemed to be. A lot of issues seemed to be accounted for, and as I read, it was just "here's a potential problem, here's how to deal with it." Spell checkers are always fun to look at because spelling is just so subjective. Looking at how each word could be corrected was really interesting.
+	- **What could be improved:** After fixing a lot of issues, it seemed like there wasn't much data to work with. In this case, I think finding more data seems helpful. The first correction was often not a correction I would have immediately made, but without context, knowing what the student was writing about, or knowing if the student was actually answering the prompt or just writing are all factors in how a correction should be made. The prompts were part of the data analyzed, but the corrections were not personalized to the prompts.
+	- **What I learned:** The spell checker was part of a python library, which was definitely something that caught my eye, because when we worked with it in 1330, I think it may have been part of a library, but it was definitely a different set up. Seeing how this particular student utilized python was fascinating, and it just constantly reminds me of how much information there is already out there for our use.
+- Project 2:[Gendered Interaction Online](https://github.com/Data-Science-for-Linguists-2019/Gendered-Interaction-Online)
+	- **What I liked:** Currently completing.
+	- **What could be improved:** Currently completing.
+	- **What I learned:** Currently completing.
