@@ -21,10 +21,10 @@
   - **What I learned:** As I mentioned, I do like the author keep the visualization short and clean. Furthermore, I think Jupyter nbviewer is a nice way to share and view Notebook files instead of loading them via Github which can be less efficient sometimes. I see the Jupyter nbviewer in other projects, and I think I will also keep this for future use.
 ## Juan
 - Project 1: [Bigram analysis of writing from the ELI](https://github.com/Data-Science-for-Linguists/Bigram-analysis-of-writing-from-the-ELI)
-	- **What I liked:** Currently completing.
-	- **What could be improved:** Currently completing.
-	- **What I learned:** Currently completing.
+	- **What I liked:** Data cleaning efforts are particularly well documented. Due to the nature of the data, it was necessary to anonymize, normalize code, and deal with Null/NaN values and empty strings, among other tasks. I also like that the project found a practical, straightforward application for bigram (token and type) frequencies.
+	- **What could be improved:** I think it would be useful to account for the words included in the prompts. If there were bigrams in the prompts with a very high (or very low) MI, that could skew the results. I might have missed it, but I don't think the predictive model accounts for individual learner variation, which is also important for this kind of analysis.
+	- **What I learned:** I was not familiar with the metric of Mutual Information (Simpson-Vlach & Ellis, 2010). I also learned about the challenges (and benefits) of doing collaborative corpus research.
 - Project 2: [ESL article acquisition](https://github.com/Data-Science-for-Linguists-2019/ESL-Article-Acquisition)
-	- **What I liked**: Currently completing.
-	- **What could be improved:** Currently completing.
-	- **What I learned:** Currently completing.
+	- **What I liked**: The theoretical foundation of the project is very clear. The choice of L1s makes sense because of the [art] feature of each language. The repository is clearly organized and I like that there are different notebooks for different taks.
+	- **What could be improved:** K-bands might be a good measure to add to the analyses and find further differences or similarities between L1 Arabic and L1 Spanish/L1 Korean learners. I think it would also be useful to see if there any outliers that might be skewing the group aggregates.
+	- **What I learned:** I wasn't familiar with Jupyter nbviewer. I think it's a nice complement for the GitHub repository. I also learned of the  spaCy library. On a more practical note, I learned how to make use of regular expressions for efficient and transparent data cleaning.
