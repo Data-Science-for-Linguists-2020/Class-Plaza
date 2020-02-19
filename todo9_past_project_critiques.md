@@ -28,3 +28,13 @@
 	- **What I liked**: Currently completing.
 	- **What could be improved:** Currently completing.
 	- **What I learned:** Currently completing.
+    
+## Kiara
+- Project 1: [Spell-Checker](https://github.com/Data-Science-for-Linguists-2019/Spell-Checker)
+	- **What I liked:** Currently completing.
+	- **What could be improved:** Currently completing.
+	- **What I learned:** Currently completing.
+- Project 2:[Gendered Interaction Online](https://github.com/Data-Science-for-Linguists-2019/Gendered-Interaction-Online)
+	- **What I liked:** Currently completing.
+	- **What could be improved:** Currently completing.
+	- **What I learned:** Currently completing.
