@@ -60,3 +60,25 @@
 	- **What I liked:** Eva was my TA last semester, how the tables have turned! Just kidding, this is a really cool and well executed project. I really loved how she lined up her project's main goals into the three/four main categories we've been talking about: what can I get (EDA/cleaning), can ML help me get more (EDA), and how do I visualize(Analysis) And also hey, three project reports.
 	- **What could be improved:** This is pretty nit-picky but I think she could have used color better. I actually loved her visualizations and thought she used graphs very intuitively, which is why the colors sort of stuck out to me. They were rainbow when a solid color would've made more sense, and they were solid when they might have needed clearer distinction. Also, 'negative' was green which is kind of contrary to synethesia.
 	- **What I learned:**  Data visualization is very important. We're working on projects for three or four months here, we should make our conclusions obvious and convincing. I think she had great, achievable goals and accomplished them. Hoping I can replicate this!
+	
+## Anthony
+- Project 1: [Sentiment Analysis of Figures in the New York Times](https://github.com/Data-Science-for-Linguists/NYT_Figures_Sentiment_Analysis)
+	- **What I liked:** This project has a lot of potential as an interdisciplinary foray into US history through the lens of linguistics, 
+	particularly in the 4th research question "are there any months that harbor a particular sentiment?" I also like that this repo contains
+	a copy of the presentation that the author gave that further details their motivation behind the project and contextualizes the results.
+	- **What could be improved:** Not all terminology is well-defined, such as "compound sentiment score," and this means the accompanying visualizations 
+	are also somewhat difficult to interpret. This is further compounded by the fact that the notebook containing the data cleaning and analysis portions
+	of this project is not well-commented, leaving readers with little clarity as to the mechanics of the project beyond what they are able to discern
+	for themselves.
+	- **What I learned:** In short, this has reaffirmed for me the importance of having well-documented code and data for people viewing your work. 
+	Trying to parse out an understanding of the author's was difficult, given that at times the visualizations seemed to not match up with the written analysis.
+- Project 2: [ESL Article Acquisition](https://github.com/Data-Science-for-Linguists-2019/ESL-Article-Acquisition)
+	- **What I liked**: This author does an excellent job of showing how they considered multiple ways to analyze their data, going from TTR 
+	to a more refined measure of lexical complexity (Guiraud's R) and clearly documenting the process. It is easy, as a reader, to follow
+	how this project went from idea to realization.
+	- **What could be improved:** It's somewhat unclear to me what role "level" is supposed to be playing in this work because it's not given
+	in terms that may be comprehensible to a broad audience. What is the difference between each of the levels? Do they equate to a common 
+	proficiency framework, like the [ACTFL](https://www.actfl.org/publications/guidelines-and-manuals/actfl-proficiency-guidelines-2012/english/writing)
+	or [CEFR](https://www.coe.int/en/web/common-european-framework-reference-languages/home) scales? More information would be helpful.
+	- **What I learned:** The prose element of a project is equally as important as the coding and the data that inform the final product. The narrative
+	that accompanies this project does a great job at contextualizing the materials that accompany it and showing the process of how this work developed.
