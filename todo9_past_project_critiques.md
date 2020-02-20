@@ -42,5 +42,11 @@
 ## Joey
 - Project 1: [Reddit Comment Analysis](https://github.com/Data-Science-for-Linguists-2019/Reddit-Comment-Analysis)
 	- **What I liked:** I'm just getting back into reddit, so this topic definitely interests me. I like that the author uses the niche aspects of reddit to get the best results, in this case it was through Flairs. This is a situation where, similar to Linguists in Data Science, specific knowledge of a topic can help yield better results.
-	- **What could be improved:** Though the findings are interesting, the report is quite confusing. The author laid out some goals that he wishes to find in his project plan, but I only see him predicting subreddits in the actual report. I would've liked to have seen some of these other questions explored.
+	- **What could be improved:** Though the findings are interesting, the report is quite confusing. The author laid out some goals that he wished to find in his project plan, but I only see him predicting subreddits in the actual report. I would've liked to have seen some of these other questions explored.
 	- **What I learned:** I learned that predictive modeling can be used to determine the origins of text based on words, which would be interesting to do with Twitter data if I were to change my topic, especially if used in conjunction with sentiment analysis.
+
+- Project 2: [Blog Sentiment Analysis](https://github.com/Data-Science-for-Linguists-2019/Blog-Sentiment-Analysis)
+	- **What I liked:** Since I'm also doing sentiment analysis, this project caught my eye. One thing I liked specifically was that the author used the astrological sign of the blogger as a way to classify them. Classifying text is one of the main  tasks in this class, and this was a very creative way to do that.
+	- **What could be improved:** I felt that the subject matter here was quite vague. The title was "Blog Sentiment Analysis," yet half of the report was on other things like word frequencies. I think the project would've been much better if the author had delved into the nuance of the sentiment  analysis.
+	- **What I learned:** I learned that VADER, part of the nltk library, provides objects that are very useful for sentiment analysis. I will have to determine whether or not this is better than the one I found, TextBlob, and consider using it instead.
+
