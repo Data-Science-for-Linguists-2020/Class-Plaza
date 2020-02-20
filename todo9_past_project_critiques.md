@@ -38,3 +38,9 @@
 	- **What I liked:** Currently completing.
 	- **What could be improved:** Currently completing.
 	- **What I learned:** Currently completing.
+
+## Joey
+- Project 1: [Reddit Comment Analysis] (https://github.com/Data-Science-for-Linguists-2019/Reddit-Comment-Analysis)
+	- **What I liked**
+	- **What could be improved**
+	- **What I learned**
