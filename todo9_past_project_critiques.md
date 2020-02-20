@@ -41,6 +41,6 @@
 
 ## Joey
 - Project 1: [Reddit Comment Analysis](https://github.com/Data-Science-for-Linguists-2019/Reddit-Comment-Analysis)
-	- **What I liked**
-	- **What could be improved**
-	- **What I learned**
+	- **What I liked:** I'm just getting back into reddit, so this topic definitely interests me. I like that the author uses the niche aspects of reddit to get the best results, in this case it was through Flairs. This is a situation where, similar to Linguists in Data Science, specific knowledge of a topic can help yield better results.
+	- **What could be improved:** Though the findings are interesting, the report is quite confusing. The author laid out some goals that he wishes to find in his project plan, but I only see him predicting subreddits in the actual report. I would've liked to have seen some of these other questions explored.
+	- **What I learned:** I learned that predictive modeling can be used to determine the origins of text based on words, which would be interesting to do with Twitter data if I were to change my topic, especially if used in conjunction with sentiment analysis.
