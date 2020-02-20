@@ -35,9 +35,9 @@
 	- **What could be improved:** After fixing a lot of issues, it seemed like there wasn't much data to work with. In this case, I think finding more data seems helpful. The first correction was often not a correction I would have immediately made, but without context, knowing what the student was writing about, or knowing if the student was actually answering the prompt or just writing are all factors in how a correction should be made. The prompts were part of the data analyzed, but the corrections were not personalized to the prompts.
 	- **What I learned:** The spell checker was part of a python library, which was definitely something that caught my eye, because when we worked with it in 1330, I think it may have been part of a library, but it was definitely a different set up. Seeing how this particular student utilized python was fascinating, and it just constantly reminds me of how much information there is already out there for our use.
 - Project 2:[Gendered Interaction Online](https://github.com/Data-Science-for-Linguists-2019/Gendered-Interaction-Online)
-	- **What I liked:** Currently completing.
-	- **What could be improved:** Currently completing.
-	- **What I learned:** Currently completing.
+	- **What I liked:** I liked being able to see how women and men interact with each other. The hypotheses posed before the analysis were carefully thought out, and I think for the most part they were correct. I was so interested, but not surprised, to see that men dominated most sites, and I liked how the student accounted for the different reasons why this might be, and didn't just assume that men were just annoying.
+	- **What could be improved:** I think exploring different reasons why there might be discrepancies would be really revealing. I liked how improvements were also included in the presentation, and I agree with those as well.
+	- **What I learned:** Like with the Spell-Checker, TfidVectorizer and MultinomialNB are things I wasn't familiar with, so seeing how they work was pretty cool.
 
 ## Joey
 - Project 1: [Reddit Comment Analysis](https://github.com/Data-Science-for-Linguists-2019/Reddit-Comment-Analysis)
