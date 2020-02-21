@@ -60,25 +60,41 @@
 	- **What I liked:** Eva was my TA last semester, how the tables have turned! Just kidding, this is a really cool and well executed project. I really loved how she lined up her project's main goals into the three/four main categories we've been talking about: what can I get (EDA/cleaning), can ML help me get more (EDA), and how do I visualize(Analysis) And also hey, three project reports.
 	- **What could be improved:** This is pretty nit-picky but I think she could have used color better. I actually loved her visualizations and thought she used graphs very intuitively, which is why the colors sort of stuck out to me. They were rainbow when a solid color would've made more sense, and they were solid when they might have needed clearer distinction. Also, 'negative' was green which is kind of contrary to synethesia.
 	- **What I learned:**  Data visualization is very important. We're working on projects for three or four months here, we should make our conclusions obvious and convincing. I think she had great, achievable goals and accomplished them. Hoping I can replicate this!
-	
+
 ## Anthony
 - Project 1: [Sentiment Analysis of Figures in the New York Times](https://github.com/Data-Science-for-Linguists/NYT_Figures_Sentiment_Analysis)
-	- **What I liked:** This project has a lot of potential as an interdisciplinary foray into US history through the lens of linguistics, 
+	- **What I liked:** This project has a lot of potential as an interdisciplinary foray into US history through the lens of linguistics,
 	particularly in the 4th research question "are there any months that harbor a particular sentiment?" I also like that this repo contains
 	a copy of the presentation that the author gave that further details their motivation behind the project and contextualizes the results.
-	- **What could be improved:** Not all terminology is well-defined, such as "compound sentiment score," and this means the accompanying visualizations 
+	- **What could be improved:** Not all terminology is well-defined, such as "compound sentiment score," and this means the accompanying visualizations
 	are also somewhat difficult to interpret. This is further compounded by the fact that the notebook containing the data cleaning and analysis portions
 	of this project is not well-commented, leaving readers with little clarity as to the mechanics of the project beyond what they are able to discern
 	for themselves.
-	- **What I learned:** In short, this has reaffirmed for me the importance of having well-documented code and data for people viewing your work. 
+	- **What I learned:** In short, this has reaffirmed for me the importance of having well-documented code and data for people viewing your work.
 	Trying to parse out an understanding of the author's was difficult, given that at times the visualizations seemed to not match up with the written analysis.
 - Project 2: [ESL Article Acquisition](https://github.com/Data-Science-for-Linguists-2019/ESL-Article-Acquisition)
-	- **What I liked**: This author does an excellent job of showing how they considered multiple ways to analyze their data, going from TTR 
+	- **What I liked**: This author does an excellent job of showing how they considered multiple ways to analyze their data, going from TTR
 	to a more refined measure of lexical complexity (Guiraud's R) and clearly documenting the process. It is easy, as a reader, to follow
 	how this project went from idea to realization.
 	- **What could be improved:** It's somewhat unclear to me what role "level" is supposed to be playing in this work because it's not given
-	in terms that may be comprehensible to a broad audience. What is the difference between each of the levels? Do they equate to a common 
+	in terms that may be comprehensible to a broad audience. What is the difference between each of the levels? Do they equate to a common
 	proficiency framework, like the [ACTFL](https://www.actfl.org/publications/guidelines-and-manuals/actfl-proficiency-guidelines-2012/english/writing)
 	or [CEFR](https://www.coe.int/en/web/common-european-framework-reference-languages/home) scales? More information would be helpful.
 	- **What I learned:** The prose element of a project is equally as important as the coding and the data that inform the final product. The narrative
 	that accompanies this project does a great job at contextualizing the materials that accompany it and showing the process of how this work developed.
+
+## Jordan
+	Project 1: [Bigram analysis of writing from the ELI](https://github.com/Data-Science-for-Linguists/Bigram-analysis-of-writing-from-the-ELI/blob/master/final_report.md)
+	- **What I liked:**
+	He thoroughly explained all the decisions he made during the process, making it easy to follow along. The heatmap is a very nice way to display the accuracy of his model's predictions and the ways it made mistakes.
+	- **What could be improved:** Figure 11 seems pretty strange, he's using the graded level as the response variable here. He seems to be predicting level by MI score which is a fine idea, but there are only 3 possible values for this makes it a pretty opaque way to demonstrate the expected values.
+	- **What I learned**
+	This is the first time I've been exposed to MI and it seems like a very useful tool for comparing the speech of speakers at different levels. I'll look into it further, if it checks out it could be very useful for my project.
+
+	Project 2: [2016 Election Project](https://github.com/Data-Science-for-Linguists/2016-Election-Project/blob/master/final_report.md)
+	- **What I liked:**
+	It's obvious that a lot of care went into how the data was presented, everything came out beautifully. The project itself was very interesting, especially the comparisons between Trump and Clinton as the debates progressed. You can clearly see Trump dropping his use of professional titles as a response to Clinton's decision to only refer to him by his first name.
+	- **What could be improved:**
+	The only thing I can think of is that name-calling was displayed in the key of the graphs but didn't seem to appear at all. I'm sure there was some technical issue with the tagger but this would have been a great addition to the analysis.
+	- **What I learned**
+	I'll need to use whichever graphing library Paige is using here, I'll most likely use it in my project.
