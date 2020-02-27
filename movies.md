@@ -1,16 +1,16 @@
-Recommended:
+# Movies
+## Recommended
+* Boss Baby
+* Coherence
+* Nashville
+* Speed Racer
+* The Conformist
+* Parasite
 
-Boss Baby
-Coherence
-Nashville
-Speed Racer
-The Conformist
+## To Watch
+*All of the above
 
-
-
-
-
-
-To watch:
-
-
+## Not Recommended
+* Green Book
+* Three Billboards Outside Ebbing Missouri
+* Black Swan
