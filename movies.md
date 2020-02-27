@@ -8,7 +8,7 @@
 * Parasite
 
 ## To Watch
-*All of the above
+* All of the above
 
 ## Not Recommended
 * Green Book
