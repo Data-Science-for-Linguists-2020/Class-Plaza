@@ -98,3 +98,12 @@
 	The only thing I can think of is that name-calling was displayed in the key of the graphs but didn't seem to appear at all. I'm sure there was some technical issue with the tagger but this would have been a great addition to the analysis.
 	- **What I learned**
 	I'll need to use whichever graphing library Paige is using here, I'll most likely use it in my project.
+## Natasha
+- Project 1: Document Clustering
+	- **What I liked:** I loved the idea behind the project, because I also have the same problem. I liked the visuals provided by the scatter plots, because I think they lended well to what the research was about. I also liked the explanations about the different kinds of clustering as it provided a good background
+	- **What could be improved:** I think that the data could be labelled and explained better. The charts were only helpful because of the way the data was presented, the student did not label it clearly. 
+	- **What I learned:** I learned about heirarchical and k-means clustering, and also about another application of how beautifulsoup can be used for a project. This student used beutifulsoup to gather keywords to sort bookmarks.
+- Project 2: Native and Non-Native English
+	- **What I liked**: This student provided a lot of background about the project and the methods used. It was very helpful to read this report as someone who is just starting to manipulate data. I liked seeing how simple things I had learned in Computational Linguistics, like bigrams, could be applied to a larger project.
+	- **What could be improved:** Compared to the first project I reviewed, these graphs were not as elegant, and could've been better constructed. Some of the bar graphs didn't need multiple colors because it only seemed to be comparing one set, not a subset or anything like that. 
+	- **What I learned:** I learned that contractions were higher between non-native groups than native groups which was not a result I expected. I would've thought that contractions are something that may not come as naturally to L2 speakers as not all words can be contractions, but it is interesting to note that they do use them often.
