@@ -1,5 +1,5 @@
 # Guestbook for [Arabic Learner Corpus Considerations](https://github.com/Data-Science-for-Linguists-2020/Arabic-Learner-Corpus-Considerations)
-## Anthony Verardi | Spring 2020 | University of Pittsburgh
+**Anthony Verardi | Spring 2020 | University of Pittsburgh**
 
 Welcome to my project! I'm investigating the [Arabic Learner Corpus](https://www.arabiclearnercorpus.com/)
 to see what kinds of questions it might be useful for answering. My main idea right now is to play around
