@@ -1,5 +1,5 @@
 ## Natasha's Guestbook
-Welcome to my guestbook!!
+Welcome to my guestbook!! My project is Twitter Positivity Analysis
 
 (3/2/2020) Unfortunately my repo is a little empty as I am catching up on some late work! 
 
