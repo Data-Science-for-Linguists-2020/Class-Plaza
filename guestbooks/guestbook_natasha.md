@@ -1,3 +1,10 @@
+## Natasha's Guestbook
+Welcome to my guestbook!!
+
+(3/2/2020) Unfortunately my repo is a little empty as I am catching up on some late work! 
+
+->----------<-
+
 ### Lindsey's Feedback (3/2/2020)
 - **What I liked**
     - This project topic is incredibly interesting to me. Testing to see if social media (Twitter specifically) is growing more negative for one reason or another is not only doable but intriguing to the degree that I want to check this out a bit myself. I feel like Twitter has indeed gotten more negative over time because of the political climate, etc. But maybe your project will prove me wrong!
