@@ -8,7 +8,8 @@
 * Parasite
 
 ## To Watch
-* All of the above
+* First Cow
+* La ciénaga
 
 ## Not Recommended
 * Green Book
