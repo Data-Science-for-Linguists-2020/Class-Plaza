@@ -13,3 +13,5 @@
 	
 * Joey's Feedback
 	* You do a good job of making sense of all the data. Specifically, it seems like your data file is rather complex, so merging it all and adding the relevant pieces is going to help you in the long run.
+	* One thing that I think could be better is the organization of your code. You can do this by using markdown cells and making your comments more descriptive. Splitting your code into smaller cells will also help with readability.
+	* Pickle is something that I was not familiar with, but after a little research is seems like you're using it to help with the persistence of the most important data. I'd be interested to find out more about what pickle is and why you're using it.
