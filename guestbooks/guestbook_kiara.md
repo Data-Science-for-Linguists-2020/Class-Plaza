@@ -11,3 +11,8 @@ Welcome!! I was having a lot of issues with reading all the data in as a group, 
 - **What is done well:** This is an interesting project! Looking forward to the developments. So far I think the procurement of the data is well done.
 - **What could be improved:** What variables are you planning to explore? That is to say, how are you going to operationalize "differences in speech" or "changes in speech"? The code for all notebooks reads "Episode IV" even though it's different episodes. To get all the data frames in the same notebook you might consider pickling them.
 - **What I learned:** I learned about some useful tools (webdriver, BeautifulSoup) to extract raw text from websites.
+
+#### Jordan
+- **What is done well:** It seems like you're doing a good job of handling the XML, scraping data from the internet rather than using a corpus must be much more annoying and it looks good!
+- **What could be improved:** I have similar concerns to Juan, I'd like to know what specifically you're looking for. Splitting the episodes up by notebook makes it a little harder to read but if it takes a very long time to run the program it makes sense to split it like that. You might also consider using pickling if run speed is the issue, I decided to pickle all my data once my notebook started taking 5 minutes to run.
+- **What I learned:** I learned about beautifulsoup, I'll definitely consider using it next time I need to scrape XML data.
