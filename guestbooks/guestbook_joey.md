@@ -12,3 +12,8 @@ This file contains peer feedback to my term project, Sentiment Analysis of Trump
 	certainly no stranger to it, and I think you'd miss out on "WITCH HUNT" with your current setup if you tried to find it. 
 	* It's been cooling learning about Textblob, even though I definitely have more questions than answers! I'm looking forward to seeing this
 	project develop.
+
+* Sean's Feedback
+	* You have a clear idea of what you want to do, and the data you've selected will be great in helping you get there. It was a great choice to skip Tweepy/the Twitter API and use a precompiled corpus--this will save a ton of data cleaning and overhead.
+	* While you have a very clear idea of *what* your project is, I think a few of the *how's* are a little unclear. For example, I'm not 100% as to why you need Sentiment Analysis--and it might not be worth the work if you aren't sure what you want to do with it. That being said, I have the same problems and it's natural to be unsure about techniques this early.
+	* I learned about Textblob! I also learned a lot more about the "lambda" functionality from your NB.
