@@ -12,3 +12,11 @@ Welcome to my guestbook!! My project is Twitter Positivity Analysis
     - README.md could be a little more detailed. It just seems lacking compared to some of the other projects' READMEs. Unfortunately, there also isn't very much in your repo right now for me to even comment on at the time of writing this (Monday evening, around 9:30pm), so there isn't much else to say. 
 - **What I learned**
     - See above; since there's not much in your repo, there's not much I can say here. You did mention in your project plan that there might be a thing in NLTK for Twitter processing. After double checking with a Google search, I did learn that there is something in NLTK that processes Twitter data. 
+
+## Kiara
+- **What I Liked**
+    - From what we've talked about in class, I really liked your project and as a Twitter user, this is especially interesting to me because I have personally witnessed several changes other Twitter users have gone through. I think Twitter has gotten more negative in certain senses- like politics, but I think it's also gotten a lot better. Usually when a negative tweet goes viral, a more positive "let's not be assholes" response tweet gains even more popularity, so I feel like although there IS negativity, younger people are actually more focused on positivity. I can't wait to see your results!!!!
+- **What could be improved**
+    - There's not much info to go off of, so I don't have much to say. I guess just getting started?
+- **What I learned**
+    - I haven't really learned anything because there's not much there, but I'm excited to learn about any tools you might utilize (like NLTK). I'm also really eager to see how this project goes!!
