@@ -10,3 +10,6 @@
 	for giving readers a sense of your work.
 	* I've learned a good deal more about using lambda to process data from looking through your notebook! I'm going to be working with a lot of metadata as well,
 	so I'm sure it'll come in handy.
+	
+* Joey's Feedback
+	* You do a good job of making sense of all the data. Specifically, it seems like your data file is rather complex, so merging it all and adding the relevant pieces is going to help you in the long run.
