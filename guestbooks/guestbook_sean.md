@@ -5,3 +5,8 @@
     - I wasn't really sure as to what was going on after code cell 5 when things went awry. It just looked like big chunks of text, and the markdown cells in your progress notebook felt like they were a bit lacking. I'd find myself scrolling through large blocks of text and unknowingly skip over a markdown cell. I understand what you were trying to do by printing out those chunks of texts, but it wasn't too easy on the eyes. 
 - **What I learned**
     - The fact that Enron has had an issue to the degree of receiving its own dedicated Wikipedia header was news to me. I didn't really know what Enron was about in the first place, but clearly it was a big deal! I was especially shocked at the degree that their stock value dropped in 2000-2001. RIP Enron. Your project will be fun in the end because I'm also interested in the juicy stuff, after reading the Wiki. 
+
+### Natasha's Feedback (3/2/2020)
+- **What I liked**: I love your project idea! You lay out the details of your plan and your data very clearly in your README file and even provide links to the specific situation of the Enron scandal.
+- **What could be improved**: I think that flashing all of your data in the notebook file gets a bit confusing, and can make it easy to overlook aspects of your code. It might be more streamlined if you pick and choose what to show according to the result you want to emphasize.
+- **What I learned**: I learned about what the Enron scandal was and also got some ideas about how I could format my own README. 
