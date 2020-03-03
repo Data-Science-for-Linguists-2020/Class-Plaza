@@ -1,3 +1,9 @@
+## Star Wars Dialogue Analysis - Kiara
+Welcome!! I was having a lot of issues with reading all the data in as a group, so for the deadline I switched to reading in files individually. I was following a tutorial, so once I'm done doing all of my work for Soudi and Karen, I plan on focusing on this project. I literally don't have anything in depth in the GitHub repo, so I apologize for that . The most detailed stuff is what I've done with the code so far, but even the final version of that never really got uploaded by the deadline. I have it, I just hadn't pushed it.
+### Project Info
+- [Repo] (https://github.com/Data-Science-for-Linguists-2020/SW-Dialogue-Analysis)
+- [Code] (https://github.com/Data-Science-for-Linguists-2020/SW-Dialogue-Analysis/tree/master/code)
+
 ### Comments
 
 #### Juan
