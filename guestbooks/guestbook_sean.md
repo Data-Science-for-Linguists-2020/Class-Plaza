@@ -1,8 +1,8 @@
 ### Sean's Project
-*Sean Steinle* | *sts137* | 03/03/20
+**Sean Steinle** | **sts137** | **03/03/20**
 <br>
-*This file contains feedback on my term project, which is a classifier of criminality in emails.*<br>
-https://github.com/Data-Science-for-Linguists-2020/Smoking-Gun-Classification
+This file contains feedback on my term project, which is a classifier of criminality in emails.<br>
+*https://github.com/Data-Science-for-Linguists-2020/Smoking-Gun-Classification*
 <br>
 ___
 ### Lindsey's Feedback (3/2/2020)
