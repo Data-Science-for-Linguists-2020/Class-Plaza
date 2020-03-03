@@ -13,3 +13,8 @@ leave some feedback!
   * [Data Analysis (WIP)](https://github.com/Data-Science-for-Linguists-2020/Arabic-Learner-Corpus-Considerations/tree/master/data_analysis)
 
 ## Feedback
+
+### Natasha's Feedback (3/2/2020)
+- **What I liked**: Honesty your thoroughness and explanation of the material is what I strive for in this class. You really explain your project and data in great detail so even someone who might have no context for the project can understand it well. 
+- **What could be improved**: There are some points where a lot of text is flashed on your notebook which might be jarring and take away from the relevant data that you are looking at. Maybe clipping how much you show can get your point across without distracting from the real data you want to show.
+- **What I learned**: I started to see what the process might be for working with non-Roman characters in python and i'm excited to see more of how that works! I also learned some interesting things about the Arabic language and how the data includes native speakers of a different dialect of Arabic. 
