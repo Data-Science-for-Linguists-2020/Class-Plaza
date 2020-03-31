@@ -21,10 +21,10 @@ Welcome to my guestbook!! My project is Twitter Positivity Analysis
 - **What I learned**
     - I haven't really learned anything because there's not much there, but I'm excited to learn about any tools you might utilize (like NLTK). I'm also really eager to see how this project goes!!
 
-## Juan
+## Juan (3/31/2020)
 - **What I Liked**
   - I find all of this quite interesting because I like Twitter a lot myself. You make good use of libraries such as `os` and you document the process well. I also think you made great use of regular expressions for data cleaning here (and there was a lot of cleaning involved, so kudos for that!). The results will be quite interesting to read.
 - **What could be improved**
   - `langdetect` appears to be more effective with 2011 data (which you do note), maybe you could take a closer look at that subset of the data (or the `langdetect` options) to see what's going on. For analysis, have you considered removing stop words? This is also something you can test when you try to improve your classifier's accuracy.
 - **What I learned**
-  - It is the first time I have read about the `langdetect` library. It's not something I need for any project as of now, but it might come in handy if I need to work with multilingual data down the road. The use of `os` also illustrated some of that library's capabilities. 
+  - It is the first time I have read about the `langdetect` library. It's not something I need for any project as of now, but it might come in handy if I need to work with multilingual data down the road. The use of `os` also illustrated some of that library's capabilities.
