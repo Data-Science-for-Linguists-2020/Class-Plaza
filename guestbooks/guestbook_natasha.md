@@ -1,7 +1,7 @@
 ## Natasha's Guestbook
 Welcome to my guestbook!! My project is Twitter Positivity Analysis
 
-(3/2/2020) Unfortunately my repo is a little empty as I am catching up on some late work! 
+(3/2/2020) Unfortunately my repo is a little empty as I am catching up on some late work!
 
 ->----------<-
 
@@ -9,9 +9,9 @@ Welcome to my guestbook!! My project is Twitter Positivity Analysis
 - **What I liked**
     - This project topic is incredibly interesting to me. Testing to see if social media (Twitter specifically) is growing more negative for one reason or another is not only doable but intriguing to the degree that I want to check this out a bit myself. I feel like Twitter has indeed gotten more negative over time because of the political climate, etc. But maybe your project will prove me wrong!
 - **What could be improved**
-    - README.md could be a little more detailed. It just seems lacking compared to some of the other projects' READMEs. Unfortunately, there also isn't very much in your repo right now for me to even comment on at the time of writing this (Monday evening, around 9:30pm), so there isn't much else to say. 
+    - README.md could be a little more detailed. It just seems lacking compared to some of the other projects' READMEs. Unfortunately, there also isn't very much in your repo right now for me to even comment on at the time of writing this (Monday evening, around 9:30pm), so there isn't much else to say.
 - **What I learned**
-    - See above; since there's not much in your repo, there's not much I can say here. You did mention in your project plan that there might be a thing in NLTK for Twitter processing. After double checking with a Google search, I did learn that there is something in NLTK that processes Twitter data. 
+    - See above; since there's not much in your repo, there's not much I can say here. You did mention in your project plan that there might be a thing in NLTK for Twitter processing. After double checking with a Google search, I did learn that there is something in NLTK that processes Twitter data.
 
 ## Kiara
 - **What I Liked**
@@ -20,3 +20,11 @@ Welcome to my guestbook!! My project is Twitter Positivity Analysis
     - There's not much info to go off of, so I don't have much to say. I guess just getting started?
 - **What I learned**
     - I haven't really learned anything because there's not much there, but I'm excited to learn about any tools you might utilize (like NLTK). I'm also really eager to see how this project goes!!
+
+## Juan
+- **What I Liked**
+  - I find all of this quite interesting because I like Twitter a lot myself. You make good use of libraries such as `os` and you document the process well. I also think you made great use of regular expressions for data cleaning here (and there was a lot of cleaning involved, so kudos for that!). The results will be quite interesting to read.
+- **What could be improved**
+  - `langdetect` appears to be more effective with 2011 data (which you do note), maybe you could take a closer look at that subset of the data (or the `langdetect` options) to see what's going on. For analysis, have you considered removing stop words? This is also something you can test when you try to improve your classifier's accuracy.
+- **What I learned**
+  - It is the first time I have read about the `langdetect` library. It's not something I need for any project as of now, but it might come in handy if I need to work with multilingual data down the road. The use of `os` also illustrated some of that library's capabilities. 
