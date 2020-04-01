@@ -20,3 +20,9 @@ ___
   * I don't really see anthing that could be improved here, I noticed that some verbs like 'necesita' were getting into the dataframe but you already have a plan for this. With the POS tags it'll be easy, only nouns can take diminutives.
   * The syntax of your method remove_redacted is interesting, I might need to use something similar for my project. I've been using the .drop() method and the way you're doing it seems much more elegant.
     * Juan's response: Thanks for your feedback! Spanish is a bit tricky because adjectives and even a (limited) set of adverbs can take diminutives too, but you're right in suggesting the use of the POS column as a way to handle the issue.
+___
+* **Sean's Feedback**
+  * First of all, love the .md style. You go beyond just making it look good, rather it *is functional and adds to the organization*. I enjoyed how you set up the background in the project_plan. It was obvious not only what you were doing, but the inspiration for and potential applications of your project.
+  * Small heads up, your project_plan file has dead hyperlinks at the top. Little typo in your first project report "(shut out)". Couple of little things like that, but I'm sure you'll clean it up after the term! Honestly I can't think of any other critiques than echoing what Joey said. Great job!
+  * This was an awesome project to read through because it's a step by step blueprint through checking somebody else's findings and applying literature outside of the classroom. Slightly more big picture, but I'm really impressed with how comprehensive yet coherent the project is.
+ 
