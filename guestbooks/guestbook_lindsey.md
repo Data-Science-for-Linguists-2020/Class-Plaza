@@ -13,6 +13,9 @@ Welcome to my Guestbook! As of now, I'm working on cleaning conversation data, h
 - **What could be improved:** How are you going to operationalize the sociolinguistic variables? That could have implications for the way you organize and manipulate the data as you move forward. We worked with Google n-gram data in Computational Linguistics so that's a good place to start if you do decide to work with n-grams later on. As a last note, why did you choose the frequency you did? You might need to normalize it for statistical analyses.
 - **What I learned:** I learned what Katakana is and more about Japanese in general. Coding-wise, I learned more about handling null values.
 
+*Re: Juan (4/1/2020) - Thanks for the feedback! I'm glad my notebook was easy to read - that's what I strive for. Sociolinguistic analysis will regard the ages of the participants and their conversation partners, but that's all I know right now. I chose the frequency I did mostly by freehanding it, which might not have been the best tactic, but that isn't to say I didn't think about why I chose the number I did. I skimmed through the lower frequency words on the spreadsheet and tried to find occurrences of less common words in the conversation files to get an idea of how common the words were in casual conversation. The word for "kangaroo" showed up someplace despite it being pretty low on the frequency scale.*
+
+
 ### Kiara
 - **What I liked**
     - I don't really know what's happening in your project because I don't know Japanese, but your whole project is organized really well and the explanations were really good, so it was easier to understand.
@@ -20,3 +23,5 @@ Welcome to my Guestbook! As of now, I'm working on cleaning conversation data, h
     - Since I really don't know much about Japanese or how it works, I'm afraid I can't offer much in way of improvements at this stage. Looking at Juan said, I agree with what he said, but I'd be lying if I said I came up with it myself.
 - **What I learned**
     - I learned about Japanese! I had no idea what Katakana was, so that was really interesting to me. You also handled your data and null values using things I hadn't used before, so it was cool to see that being implemented. I also learned a lot from your data-cleaning process. Although our two processes will invariably differ exponentially, it was interesting to see how you did it.
+
+*Re: Kiara (4/1/2020) - Glad you learned about Japanese! It's a very interesting language, and a difficult language to read thanks to how the Japanese borrowed a lot of Chinese characters into their language. Appreciate your honesty about not knowing much; there's a lot to know. Maybe I'll provide some more context in my README to accomodate for that? Katakana is super cool! It's really neat to investigate how non-Roman languages handle foreign words like this, similar to the way we write foreign words in Italics.* 
