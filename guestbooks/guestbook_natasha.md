@@ -3,7 +3,7 @@ Welcome to my guestbook!! My project is Twitter Positivity Analysis
 
 (3/2/2020) Unfortunately my repo is a little empty as I am catching up on some late work!
 
-->----------<-
+---
 
 ### Lindsey's Feedback (3/2/2020)
 - **What I liked**
@@ -29,7 +29,11 @@ Welcome to my guestbook!! My project is Twitter Positivity Analysis
 - **What I learned**
   - It is the first time I have read about the `langdetect` library. It's not something I need for any project as of now, but it might come in handy if I need to work with multilingual data down the road. The use of `os` also illustrated some of that library's capabilities.
 
+*Thanks for your feedback! I'm currently looking at how "text lingo" and shorter tweets can be classfied more accurately. I really like the idea of removing stop words and I think that might solve a lot of issues I'm having.*
+
 ## Jordan
 - **What I Liked:** I really liked the sections comparing language use between the 2011 and 2019 twitter datasets, it's interesting how much things like this can show about social change over time. Your notebook is also very well presented and easy to follow.
 - **What could be improved:** This probably couldn't be improved without draining massive amounts of time from the rest of your project, but it looks like quite a few non-english tweets slipped through the cracks. Just a thought, but comparing tweets to an English wordlist might help you sift out the stragglers.
 - **What I learned:** The langdetect library seems useful, but at the same time not the most effective on small texts at least. I'm going to check it out, seems like it could be applied to many corpus linguistics problems. 
+
+*Thanks! Yeah, I had found a couple libraries other than langdetect. I thought given the massive size of my initial corpus (15 million... oof) that it would be okay if a few slipped through. But since I trimmed it down midway it is definitely worth reassessing if langdetect is right for me!*
