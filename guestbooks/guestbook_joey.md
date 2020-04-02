@@ -28,3 +28,8 @@ This file contains peer feedback to my term project, Sentiment Analysis of Trump
 	* I learned about how to handle Emojis! I had issues with Unicode etc. myself, but none of it involved Emojis, so if I have to handle that in other projects, I know where to begin.
 	
 *A big reason I don't have a lot of information about TextBlob is because I'm still unsure whether or not I will be replacing it with the traditional nltk sentiment analysis tools. Once I make a decision, I should have some more concrete descriptions of whichever tool I choose. Thanks for the feedback! - Joey*
+
+* Natasha's Feedback (4/2)
+	* This project was great to review because it's similar to the kind of data i'm using! I thought it was a great idea to use certain keywords for the sentiment analysis of the tweets, and I might incorporate that into my own classifier. Its great that you have clear plots decribing your data too!
+	* This is over-all pretty good presentation wise, but the graph portion could be explained a bit more so the viewer knows what they are looking at!
+	* I learned about how to use TextBlob for sentiment analysis, and since my next phase of analysis involves improving my classifier, it would be interesting to look into TextBlob!

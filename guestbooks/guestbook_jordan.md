@@ -22,3 +22,8 @@
 	* Your use of GREP was great! I'll definitely need to reference that in the future.
 	
 	* Hi Sean, thanks for the feedback. I had some issues with my repo so the report you looked at is actually my first project report, I uploaded the second update a couple hours later. 
+
+* Natasha's Feedback (4/2)
+	* I liked seeing your data processing being a separate notebook from the analysis based code because I think that is something that made my own code look messy. It's great to see a graph as a visual for the numbers. I'm really interested to see the results you get!
+	* I think the format and explanations in the notebook could be a little clearer. It's a bit hard to follow what each portion of code is doing, so an explanation afterwards might help the reader.
+	* I'm going to use your idea for separating tasks out on different notebooks instead of having all of progress 2 in one place. I think it will save processing power.
