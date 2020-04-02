@@ -16,7 +16,7 @@ Welcome to my Guestbook! As of now, I'm working on cleaning conversation data, h
 *Re: Juan (4/1/2020) - Thanks for the feedback! I'm glad my notebook was easy to read - that's what I strive for. Sociolinguistic analysis will regard the ages of the participants and their conversation partners, but that's all I know right now. I chose the frequency I did mostly by freehanding it, which might not have been the best tactic, but that isn't to say I didn't think about why I chose the number I did. I skimmed through the lower frequency words on the spreadsheet and tried to find occurrences of less common words in the conversation files to get an idea of how common the words were in casual conversation. The word for "kangaroo" showed up someplace despite it being pretty low on the frequency scale.*
 
 
-### Kiara
+#### Kiara
 - **What I liked**
     - I don't really know what's happening in your project because I don't know Japanese, but your whole project is organized really well and the explanations were really good, so it was easier to understand.
 - **Possible improvements**
@@ -24,4 +24,9 @@ Welcome to my Guestbook! As of now, I'm working on cleaning conversation data, h
 - **What I learned**
     - I learned about Japanese! I had no idea what Katakana was, so that was really interesting to me. You also handled your data and null values using things I hadn't used before, so it was cool to see that being implemented. I also learned a lot from your data-cleaning process. Although our two processes will invariably differ exponentially, it was interesting to see how you did it.
 
-*Re: Kiara (4/1/2020) - Glad you learned about Japanese! It's a very interesting language, and a difficult language to read thanks to how the Japanese borrowed a lot of Chinese characters into their language. Appreciate your honesty about not knowing much; there's a lot to know. Maybe I'll provide some more context in my README to accomodate for that? Katakana is super cool! It's really neat to investigate how non-Roman languages handle foreign words like this, similar to the way we write foreign words in Italics.* 
+*Re: Kiara (4/1/2020) - Glad you learned about Japanese! It's a very interesting language, and a difficult language to read thanks to how the Japanese borrowed a lot of Chinese characters into their language. Appreciate your honesty about not knowing much; there's a lot to know. Maybe I'll provide some more context in my README to accomodate for that? Katakana is super cool! It's really neat to investigate how non-Roman languages handle foreign words like this, similar to the way we write foreign words in Italics.*
+
+#### Joey
+- **What is done well:** Your code being so well documented makes following along with your data cleaning process very simple. I especially liked that your markdown cells are in a more narrative style, if you will, which gives the reader the opportunity to follow your exact chain of thinking.
+- **Possible improvements** It seems like your project is going well, but I think some more background information would have been helpful. I'm not too familiar with a lot of the linguistic jargon you use, so even a simple glossary in one of your files would be helpful.
+- **What I learned** So I did some more research and learned about Katakana, but I'm still a little fuzzy and would definitely like to learn more about it. From my current understanding, I think that Katakana is a set of characters that are derived from other languages, or is that too specific?
