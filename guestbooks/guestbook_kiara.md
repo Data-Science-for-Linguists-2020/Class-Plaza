@@ -16,3 +16,8 @@ Welcome!! I was having a lot of issues with reading all the data in as a group, 
 - **What is done well:** It seems like you're doing a good job of handling the XML, scraping data from the internet rather than using a corpus must be much more annoying and it looks good!
 - **What could be improved:** I have similar concerns to Juan, I'd like to know what specifically you're looking for. Splitting the episodes up by notebook makes it a little harder to read but if it takes a very long time to run the program it makes sense to split it like that. You might also consider using pickling if run speed is the issue, I decided to pickle all my data once my notebook started taking 5 minutes to run.
 - **What I learned:** I learned about beautifulsoup, I'll definitely consider using it next time I need to scrape XML data.
+
+#### Anthony
+- **What is done well:** I absolutely commend you for using BeautifulSoup and web scraping at the same time (although I guess BS4 is kinda' made for that? Anyway). They're both things that we haven't really gone into practiced depth with in class, so kudos to you for being bold!
+- **What could be improved:** Don't quote me on this because I'm not by any means an expert on BeautifulSoup, but I think you actually might not want to convert your "soup" into a plain string in cell 11. BeautifulSoup objects are useful because they preserve structural elements of what they're "brewed" from, and you might be able to use that to your advantage. I don't know if this is actually applicable, though, since I don't know what your raw data looks like!
+- **What I learned:** That working with scraped data and using BeautifulSoup is not an easy task! Again, kudos to you for taking on the challenge.
