@@ -17,3 +17,8 @@ This file contains peer feedback to my term project, Sentiment Analysis of Trump
 	* You have a clear idea of what you want to do, and the data you've selected will be great in helping you get there. It was a great choice to skip Tweepy/the Twitter API and use a precompiled corpus--this will save a ton of data cleaning and overhead.
 	* While you have a very clear idea of *what* your project is, I think a few of the *how's* are a little unclear. For example, I'm not 100% as to why you need Sentiment Analysis--and it might not be worth the work if you aren't sure what you want to do with it. That being said, I have the same problems and it's natural to be unsure about techniques this early.
 	* I learned about Textblob! I also learned a lot more about the "lambda" functionality from your NB.
+
+* Lindsey's Feedback
+	* This project was so entertaining to read about. The "sad" keyword cracked me up. You're also really good at explaining what you're doing step-by-step. I didn't get lost while reading your notebook at all. 
+	* This is sort of minor, but the graphs could use some y-axis labels. It was hard to tell just from the graphs alone which graphed retweets and which graphed favorites. Also re: Anthony's feedback, explanation about Textblob would be nice, too. 
+	* I learned about how to handle Emojis! I had issues with Unicode etc. myself, but none of it involved Emojis, so if I have to handle that in other projects, I know where to begin.
