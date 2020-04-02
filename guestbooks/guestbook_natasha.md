@@ -28,3 +28,8 @@ Welcome to my guestbook!! My project is Twitter Positivity Analysis
   - `langdetect` appears to be more effective with 2011 data (which you do note), maybe you could take a closer look at that subset of the data (or the `langdetect` options) to see what's going on. For analysis, have you considered removing stop words? This is also something you can test when you try to improve your classifier's accuracy.
 - **What I learned**
   - It is the first time I have read about the `langdetect` library. It's not something I need for any project as of now, but it might come in handy if I need to work with multilingual data down the road. The use of `os` also illustrated some of that library's capabilities.
+
+## Jordan
+- **What I Liked:** I really liked the sections comparing language use between the 2011 and 2019 twitter datasets, it's interesting how much things like this can show about social change over time. Your notebook is also very well presented and easy to follow.
+- **What could be improved:** This probably couldn't be improved without draining massive amounts of time from the rest of your project, but it looks like quite a few non-english tweets slipped through the cracks. Just a thought, but comparing tweets to an English wordlist might help you sift out the stragglers.
+- **What I learned:** The langdetect library seems useful, but at the same time not the most effective on small texts at least. I'm going to check it out, seems like it could be applied to many corpus linguistics problems. 
