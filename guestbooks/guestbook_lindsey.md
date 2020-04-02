@@ -30,3 +30,9 @@ Welcome to my Guestbook! As of now, I'm working on cleaning conversation data, h
 - **What is done well:** Your code being so well documented makes following along with your data cleaning process very simple. I especially liked that your markdown cells are in a more narrative style, if you will, which gives the reader the opportunity to follow your exact chain of thinking.
 - **Possible improvements** It seems like your project is going well, but I think some more background information would have been helpful. I'm not too familiar with a lot of the linguistic jargon you use, so even a simple glossary in one of your files would be helpful.
 - **What I learned** So I did some more research and learned about Katakana, but I'm still a little fuzzy and would definitely like to learn more about it. From my current understanding, I think that Katakana is a set of characters that are derived from other languages, or is that too specific?
+
+#### Jordan
+- **What is done well:** It looks like you overcame the challenge of using katakana in Python, well done! Like other commenters have said, your code is well organized and easy to follow
+- **Possible improvements:** Everything looks good in general but I would have liked to see more exploratory analysis just so that I can wrap my head around it better.
+- **What I learned:** Your use of .startswith looks very useful, I'll keep that function in mind in case I need it in the future.
+
