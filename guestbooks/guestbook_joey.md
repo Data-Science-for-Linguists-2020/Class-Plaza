@@ -20,7 +20,11 @@ This file contains peer feedback to my term project, Sentiment Analysis of Trump
 	* While you have a very clear idea of *what* your project is, I think a few of the *how's* are a little unclear. For example, I'm not 100% as to why you need Sentiment Analysis--and it might not be worth the work if you aren't sure what you want to do with it. That being said, I have the same problems and it's natural to be unsure about techniques this early.
 	* I learned about Textblob! I also learned a lot more about the "lambda" functionality from your NB.
 
+*Thanks, Sean. I definitely think I've made progress on this front, and my objective will become even clearer as I progress through the project. - Joey*
+
 * Lindsey's Feedback
 	* This project was so entertaining to read about. The "sad" keyword cracked me up. You're also really good at explaining what you're doing step-by-step. I didn't get lost while reading your notebook at all. 
 	* This is sort of minor, but the graphs could use some y-axis labels. It was hard to tell just from the graphs alone which graphed retweets and which graphed favorites. Also re: Anthony's feedback, explanation about Textblob would be nice, too. 
 	* I learned about how to handle Emojis! I had issues with Unicode etc. myself, but none of it involved Emojis, so if I have to handle that in other projects, I know where to begin.
+	
+*A big reason I don't have a lot of information about TextBlob is because I'm still unsure whether or not I will be replacing it with the traditional nltk sentiment analysis tools. Once I make a decision, I should have some more concrete descriptions of whichever tool I choose. Thanks for the feedback! - Joey*
