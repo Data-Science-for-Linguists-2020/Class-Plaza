@@ -26,3 +26,9 @@ ___
 - **What could be improved**: The first notebook was a bit harder to read because you flash very large amounts of data. I would consider flashing only an excerpt (using slashing for instance) for ease of reading.  A minor thing, but the links in your table of contents don't work. This is a problem I ran into as well. In my case it turned out to be an issue with the formatting of headers. You are using ids rather than headers so I'm not sure how to fix it.
 - **What I learned**: This project is very informative as regards the handling and exploration of email data. I had never heard of the `email.parser` library, which seems to do a fairly good job.  
 - *Sean's Response*: Thanks for the comment Juan! Definitely took the note about flashing, and I'm going to go back through all of my hyperlinks after the semester to make sure they're in good shape. They do require a bit of maintenance.
+
+___
+### Kiara's Feedback (4/2/2020)
+- **What I liked**: I love how organized your notebooks are. You planned everything out and then started doing the project in a methodical way, and at times there's a lot of text displayed which can be hard to read, but it's really well thought out and you have a table of contents!! I'm sure you were really excited to have that. Didn't check to see if it worked though.
+- **What could be improved**: You did the same thing Anthony did- you have a lot of material to read. Not to echo everyone else but maybe consider not flashing as much material.
+- **What I learned**: Learned about email.parser which is really interesting. Also just learning about Enron in general was really interesting. Also love the read me so I might start playing around with formatting mine.
