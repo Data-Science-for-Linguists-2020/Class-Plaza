@@ -20,3 +20,5 @@
 	* Great use of functions early on, saves a ton of work later on. Also, great topic choice: it's a clear and specific goal. Further, you selected a great data source to pursue it.
 	* I would look into using Juypter's different functionalities a bit. Even just an hour or so makes the notebook look so much cleaner. There were a few spaces where the lines were messy as well as the headers.
 	* Your use of GREP was great! I'll definitely need to reference that in the future.
+	
+	* Hi Sean, thanks for the feedback. I had some issues with my repo so the report you looked at is actually my first project report, I uploaded the second update a couple hours later. 
