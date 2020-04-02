@@ -13,8 +13,7 @@ This file contains peer feedback to my term project, Sentiment Analysis of Trump
 	* It's been cooling learning about Textblob, even though I definitely have more questions than answers! I'm looking forward to seeing this
 	project develop.
 	
-* I actually took note of the all-caps speech in my second report. I accomplished this by converting all of the text to lowercase using String.lower().
-- Joey *
+* I actually took note of the all-caps speech in my second report. I accomplished this by converting all of the text to lowercase using String.lower(). - Joey *
 
 * Sean's Feedback
 	* You have a clear idea of what you want to do, and the data you've selected will be great in helping you get there. It was a great choice to skip Tweepy/the Twitter API and use a precompiled corpus--this will save a ton of data cleaning and overhead.
