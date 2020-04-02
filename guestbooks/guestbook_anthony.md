@@ -24,7 +24,7 @@ leave some feedback!
 - **What could be improved**: I would say there is one or two cells with a *lot* of text, so maybe don't flash in those cases. Other than that things look great! I also wanted to mention that I think Stanford's POS tagger/NLPcore would be perfect for your project, as it's widely cited in academia and handles Arabic (what kind of Arabic, I do not know). Here's the link: https://nlp.stanford.edu/software/tagger.html
 - **What I learned**: I learned a lot about how difficult it is to do work with XML files, and also how difficult research in a macro-language can be. Best of luck, hope Beautiful Soup works for you!
 
-## Lindsey's Feedback (4/1/2020)
+### Lindsey's Feedback (4/1/2020)
 - **What I liked**: A fellow non-Roman project! Even just the idea of the project is interesting. I love that you're *testing* this resource rather than just using it for some other project. Also, everything is so clear and organized so despite my lack of knowledge towards literally anything about Arabic, I know what's going on.
 - **What could be improved**: Like the two above me said, there's a lot of text going on in that first Notebook. It's feedback you've gotten before, so I'm sure you're going to take that into consideration as you move forward. It's really hard to find anything else that could be improved upon because your organization and explanation is phenomenal. 
 - **What I learned**: To echo Sean a bit: I learned about handling XML and the challenges of it. I considered working with an XML corpus but didn't want to go through the trouble, so I commend you for that. I also learned some little bits about Arabic in general, like how you mentioned that object pronouns can attach to verbs as suffixes.
