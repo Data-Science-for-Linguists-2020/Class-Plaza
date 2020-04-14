@@ -33,3 +33,9 @@ This file contains peer feedback to my term project, Sentiment Analysis of Trump
 	* This project was great to review because it's similar to the kind of data i'm using! I thought it was a great idea to use certain keywords for the sentiment analysis of the tweets, and I might incorporate that into my own classifier. Its great that you have clear plots decribing your data too!
 	* This is over-all pretty good presentation wise, but the graph portion could be explained a bit more so the viewer knows what they are looking at!
 	* I learned about how to use TextBlob for sentiment analysis, and since my next phase of analysis involves improving my classifier, it would be interesting to look into TextBlob!
+
+
+* Jordan's Feedback (4/14)
+	* Really interesting project, I like how you can see real world political changes reflected in the data. 
+	* I read Anthony's feedback and it seems like you misinterpereted what he was saying. I think he meant that a tweet being in all caps could be a variable of its own. I'd assume that all caps means a message has a higher polarity in one direction or another, and you could be missing out on that information.
+	* Textblob seems like a very usefull library, I'll have to check it out
