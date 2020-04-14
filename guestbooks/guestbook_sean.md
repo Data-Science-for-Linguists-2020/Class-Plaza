@@ -32,3 +32,8 @@ ___
 - **What I liked**: I love how organized your notebooks are. You planned everything out and then started doing the project in a methodical way, and at times there's a lot of text displayed which can be hard to read, but it's really well thought out and you have a table of contents!! I'm sure you were really excited to have that. Didn't check to see if it worked though.
 - **What could be improved**: You did the same thing Anthony did- you have a lot of material to read. Not to echo everyone else but maybe consider not flashing as much material.
 - **What I learned**: Learned about email.parser which is really interesting. Also just learning about Enron in general was really interesting. Also love the read me so I might start playing around with formatting mine.
+
+### Jordan's Feedback (4/14/2020)
+- **What I liked**: Your data looks like it took a lot of work to wrangle into shape, good job! 
+- **What could be improved**: You'll add it soon I'm sure, but I'm interested in seeing how your model will define a criminal message
+- **What I learned**: Like others have said, the email.parser library looks like it would be very useful for some future project, I'm glad I was able to learn about it and gain a basic understanding of how it works from your project
