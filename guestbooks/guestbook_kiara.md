@@ -1,8 +1,8 @@
 ## Star Wars Dialogue Analysis - Kiara
 Welcome!! | There's a lot of underdeveloped stuff 
 ### Project Info
-- [Repo] (https://github.com/Data-Science-for-Linguists-2020/SW-Dialogue-Analysis)
-- [Code] (https://github.com/Data-Science-for-Linguists-2020/SW-Dialogue-Analysis/tree/master/code)
+- [Repo](https://github.com/Data-Science-for-Linguists-2020/SW-Dialogue-Analysis)
+- [Code](https://github.com/Data-Science-for-Linguists-2020/SW-Dialogue-Analysis/tree/master/code)
 
 ### Comments
 
