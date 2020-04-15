@@ -33,7 +33,14 @@ ___
 - **What could be improved**: You did the same thing Anthony did- you have a lot of material to read. Not to echo everyone else but maybe consider not flashing as much material.
 - **What I learned**: Learned about email.parser which is really interesting. Also just learning about Enron in general was really interesting. Also love the read me so I might start playing around with formatting mine.
 
+___
 ### Jordan's Feedback (4/14/2020)
 - **What I liked**: Your data looks like it took a lot of work to wrangle into shape, good job! 
 - **What could be improved**: You'll add it soon I'm sure, but I'm interested in seeing how your model will define a criminal message
 - **What I learned**: Like others have said, the email.parser library looks like it would be very useful for some future project, I'm glad I was able to learn about it and gain a basic understanding of how it works from your project
+
+___
+### Anthony's Feedback (4/15/2020)
+- **What I Liked:** First and foremost: I've always loved the name of your project, it's such a vibe. Besides that, I think it's a really great move on your part to end each notebook with a summary and a conclusion that helps both orient your future self to where you left off and let your reader know what's working and what isn't. Your project has a lot of potential; you'll get there.
+- **What could be improved:** I think your notebook would benefit from some simple visuals (both for information's sake and to break up all the text output), even if it's just a bar graph showing the count of emails per party involved. I haven't taken a super close look at your data, though, so if that ends up being non-feasible (like if there's a ton of unique email addresses and people), I get it!
+- **What I learned:** How much work goes into parsing the format that you're working with! I'm surprised it's this complicated; good on you for working with structured data that's not one of the usual types like .json or .csv. 
