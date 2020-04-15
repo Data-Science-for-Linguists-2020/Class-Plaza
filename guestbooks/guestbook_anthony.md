@@ -15,9 +15,9 @@ leave some feedback!
 ## Feedback
 
 ### Natasha's Feedback (3/2/2020)
-- **What I liked**: Honesty your thoroughness and explanation of the material is what I strive for in this class. You really explain your project and data in great detail so even someone who might have no context for the project can understand it well. 
+- **What I liked**: Honesty your thoroughness and explanation of the material is what I strive for in this class. You really explain your project and data in great detail so even someone who might have no context for the project can understand it well.
 - **What could be improved**: There are some points where a lot of text is flashed on your notebook which might be jarring and take away from the relevant data that you are looking at. Maybe clipping how much you show can get your point across without distracting from the real data you want to show.
-- **What I learned**: I started to see what the process might be for working with non-Roman characters in python and i'm excited to see more of how that works! I also learned some interesting things about the Arabic language and how the data includes native speakers of a different dialect of Arabic. 
+- **What I learned**: I started to see what the process might be for working with non-Roman characters in python and i'm excited to see more of how that works! I also learned some interesting things about the Arabic language and how the data includes native speakers of a different dialect of Arabic.
 
 *Anthony says (4/1/2020): thanks for the feedback, Natasha, and your extremely kind words! I totally hear you re: the length of some of my cells, will work on it.*
 
@@ -30,7 +30,7 @@ leave some feedback!
 
 ### Lindsey's Feedback (4/1/2020)
 - **What I liked**: A fellow non-Roman project! Even just the idea of the project is interesting. I love that you're *testing* this resource rather than just using it for some other project. Also, everything is so clear and organized so despite my lack of knowledge towards literally anything about Arabic, I know what's going on.
-- **What could be improved**: Like the two above me said, there's a lot of text going on in that first Notebook. It's feedback you've gotten before, so I'm sure you're going to take that into consideration as you move forward. It's really hard to find anything else that could be improved upon because your organization and explanation is phenomenal. 
+- **What could be improved**: Like the two above me said, there's a lot of text going on in that first Notebook. It's feedback you've gotten before, so I'm sure you're going to take that into consideration as you move forward. It's really hard to find anything else that could be improved upon because your organization and explanation is phenomenal.
 - **What I learned**: To echo Sean a bit: I learned about handling XML and the challenges of it. I considered working with an XML corpus but didn't want to go through the trouble, so I commend you for that. I also learned some little bits about Arabic in general, like how you mentioned that object pronouns can attach to verbs as suffixes.
 
 *Anthony says (4/15/2020): Thanks, Lindsey! I really need to figure out how to trim down cell output :) it'll be a step I circle back to once all the main work is done, probably.*
@@ -48,3 +48,8 @@ leave some feedback!
 - **What I learned**: Beautiful soup! It seems like it can real pain to use and it's nice to see it in action.
 
 *Anthony says (4/15/2020): Thanks for the supportive feedback, Jordan!*
+
+### Juan's Feedback (4/15/2020)
+- **What I liked**: I think it's nice that you started with a broad focus that you progressively narrowed down. Building a classifier is a good application of what we have done in class. As others have noted, your code is very clearly documented so as a reader it is quite easy to follow. Also kudos for handling a language that doesn't use a Latin-script alphabet.  
+- **What could be improved**: Regarding your (WIP) classifier training and analysis notebook, I agree that combining features could be useful to make the classifier more accurate. The classifier might not be doing as badly as you think, though, if you calculate the baseline based on the number of labels you have (many). An alternative might be to make the labels binary.  
+- **What I learned**: The use of Beautiful (and the handling of the XML files in general) was highly informative and applicable to other projects.
