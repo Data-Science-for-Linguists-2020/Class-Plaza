@@ -36,3 +36,7 @@ Welcome to my Guestbook! As of now, I'm working on cleaning conversation data, h
 - **Possible improvements:** Everything looks good in general but I would have liked to see more exploratory analysis just so that I can wrap my head around it better.
 - **What I learned:** Your use of .startswith looks very useful, I'll keep that function in mind in case I need it in the future.
 
+#### Anthony
+- **What is done well:** Your notebooks are sooooo well-formatted, Lindsey! Very readable and very easy to follow, I can clearly get a picture of your thought process as you're working on your project. Great job.
+- **Possible improvements:** I totally get what you're talking about with "la" (ラ) in your analysis notebook. If you're familiar with Regex, it might be useful the word boundary functions here!
+- **What I learned:** Lots about Japanese! I've never really looked closely at the distinctions between kanji, katakana, and hiragana, so it was fun to take a close look at one of them.
