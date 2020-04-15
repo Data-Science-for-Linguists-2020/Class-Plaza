@@ -33,12 +33,18 @@ leave some feedback!
 - **What could be improved**: Like the two above me said, there's a lot of text going on in that first Notebook. It's feedback you've gotten before, so I'm sure you're going to take that into consideration as you move forward. It's really hard to find anything else that could be improved upon because your organization and explanation is phenomenal. 
 - **What I learned**: To echo Sean a bit: I learned about handling XML and the challenges of it. I considered working with an XML corpus but didn't want to go through the trouble, so I commend you for that. I also learned some little bits about Arabic in general, like how you mentioned that object pronouns can attach to verbs as suffixes.
 
+*Anthony says (4/15/2020): Thanks, Lindsey! I really need to figure out how to trim down cell output :) it'll be a step I circle back to once all the main work is done, probably.*
+
 ### Kiara's Feedback (4/2/2020)
-- **What I liked"": I'm always really impressed with your work because it's usually very well organized and you explain EVERYTHING you're doing which means it's easy to follow along with.
+- **What I liked**: I'm always really impressed with your work because it's usually very well organized and you explain EVERYTHING you're doing which means it's easy to follow along with.
 - **What could be improved**: You explain EVERYTHING which means sometimes there's a lot of text that doesn't really do much BUT I'd rather have it than not. It's kind of fun to read your very much so Na-Rae inspired comments, but just keep in mind you have a LOT of text there.
 - **What I learned**: It was really cool to see you use beautiful soup with XML because I'm using it with HTML. Your data is organized very much so differently than mine, so I liked seeing how you cleaned and organized your data.
 
+*Anthony says (4/15/2020): Ha, yes, my commentary is indeed very much in the spirit of Na-Rae! I think it's the former language teacher in me coming out and really trying to make things as clear as possible for the reader. Thanks for the feedback!*
+
 ### Jordan's Feedback (4/14/2020)
-- **What I liked""**: Like Kiara said, your organization is top notch. Everything is very readable and easy to follow.
+- **What I liked**: Like Kiara said, your organization is top notch. Everything is very readable and easy to follow.
 - **What could be improved**: Honestly, I'd say the amount of text you use is fine, not excessive.
 - **What I learned**: Beautiful soup! It seems like it can real pain to use and it's nice to see it in action.
+
+*Anthony says (4/15/2020): Thanks for the supportive feedback, Jordan!*
