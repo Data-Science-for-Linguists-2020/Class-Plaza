@@ -37,3 +37,8 @@ Welcome to my guestbook!! My project is Twitter Positivity Analysis
 - **What I learned:** The langdetect library seems useful, but at the same time not the most effective on small texts at least. I'm going to check it out, seems like it could be applied to many corpus linguistics problems. 
 
 *Thanks! Yeah, I had found a couple libraries other than langdetect. I thought given the massive size of my initial corpus (15 million... oof) that it would be okay if a few slipped through. But since I trimmed it down midway it is definitely worth reassessing if langdetect is right for me!*
+
+## Anthony (4/15/2020)
+- **What I liked:** I think it's really cool that you're working to refine and expand an already-extant dataset along the lines of the original! Especially given that it contains so much data in languages other than English that might pose some really unique challenges, which you've done a really thorough job of documenting and accounting for; kudos!
+- **What could be improved:** Now that we've worked with a lot of other types of classifiers for homeworks, you might want to consider trying a different model instead of the NLTK implementation of Naive Bayes!
+- **What I learned:** Just how messy Twitter data can be, oof. It's a jungle out there and I have massive respect that you're trying to wrangle it instead of just tossing out the non-English data. Again, major props.
