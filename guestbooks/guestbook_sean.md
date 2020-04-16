@@ -43,4 +43,10 @@ ___
 ### Anthony's Feedback (4/15/2020)
 - **What I Liked:** First and foremost: I've always loved the name of your project, it's such a vibe. Besides that, I think it's a really great move on your part to end each notebook with a summary and a conclusion that helps both orient your future self to where you left off and let your reader know what's working and what isn't. Your project has a lot of potential; you'll get there.
 - **What could be improved:** I think your notebook would benefit from some simple visuals (both for information's sake and to break up all the text output), even if it's just a bar graph showing the count of emails per party involved. I haven't taken a super close look at your data, though, so if that ends up being non-feasible (like if there's a ton of unique email addresses and people), I get it!
-- **What I learned:** How much work goes into parsing the format that you're working with! I'm surprised it's this complicated; good on you for working with structured data that's not one of the usual types like .json or .csv. 
+- **What I learned:** How much work goes into parsing the format that you're working with! I'm surprised it's this complicated; good on you for working with structured data that's not one of the usual types like .json or .csv.
+
+___
+### Joey's Feedback (4/16/2020)
+- **What I Liked:** The amount of cleaning you had to do with your data even stressed *me* out just reading through your first two notebooks, so this is definitely something you should be proud of.
+- **What could be improved:** Don't be too daunted by not knowing what to do with your data. I think this is a very natural problem to have, and some may even say its a good problem. You have all this data now, and the rest is up to you! I think by narrowing down the possibilities by what is feasible given the time we have left in class will help you make a decision. Also can you not scp your data onto your crc directory?
+- **What I learned:** I learned more about the os package and that it can be a big help with parsing through files.
