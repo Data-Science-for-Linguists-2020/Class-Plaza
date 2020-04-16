@@ -37,3 +37,8 @@
 	* I love the use of functions. It'll save time in the future and putting it in a separate notebook everything looking cleaner and more organized.
 	* I was really interested in your project but it was kind of hard to follow along with. I didn't really understand everything that was happening, so maybe an explanation or just a reminder of what's happening would be appreciated!
 	* I liked your use of lambda. I'm actually so impressed with the number of times you used it that I'm going to make an effort to understand it and use it more.
+
+* Lindsey's Feedback
+	* Your use of functions is impressive. Good on you for recognizing when a task can be repetitive and planning how you can tackle that issue. Cleaning data can be a daunting task, especially since yours seems pretty complex, so it's good to make the task both computationally and human-ly (if that makes sense?) efficient. 
+	* Re: many others' criticisms - I find it the easiest to follow along with a project that documents the steps you're taking, or even just reminds the reader of where you're going. Markdown cells are available in those notebooks -- use them! 
+	* Also re: others' learnings - the lambda function is not something I really understand at all. Looking at your code helped me understand where and when it can be used!
