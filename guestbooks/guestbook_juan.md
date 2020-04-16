@@ -37,3 +37,8 @@ ___
   * I am always so impressed with anything you or Anthony do. I love how neat and clean everything looks. You explain everything well. I can't really add anything else that hasn't already been said.
   * Just echoing Sean's critique about the dead links (this time in your statistical analysis notebook- not super important, but maybe check all of them after the semester ends) and Anthony's idea about the full key of abbreviations (which you already acknowledged, so I'm just being redundant).
   * Honestly, I learn so much any time I read through your assignments. I can't point out anything specific, but I like taking notes any time you and Anthony turn in assignments. I learn *so* much.
+___
+* **Lindsey's Feedback**
+  * Everything is so clean! You take the time to explain everything you're doing. It's hard to know what's going on from just code, so staying documented like you have been makes everything pleasant for now and will likely make for a pleasant reader experience in the future in case anyone comes across this project. 
+  * I can't find much to criticize here. When I'm looking at your plots, though, it's hard to tell which varieties are which based on abreviation, but cell 3 in `cleaning_analysis` was helpful in figuring out which was which. It's a redundant criticizm, but a glossary/key would be helpful. 
+  * I learned a ton from your statistics notebook. I didn't exactly know what you meant by "productivity" but those explanations helped me understand it a bit more. 
