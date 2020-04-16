@@ -54,7 +54,7 @@ leave some feedback!
 - **What could be improved**: Regarding your (WIP) classifier training and analysis notebook, I agree that combining features could be useful to make the classifier more accurate. The classifier might not be doing as badly as you think, though, if you calculate the baseline based on the number of labels you have (many). An alternative might be to make the labels binary.  
 - **What I learned**: The use of `BeautifulSoup` (and the handling of the `.xml` files in general) was highly informative and applicable to other projects.
 
-### Joey's Feedback (4/15/2020)
+### Joey's Feedback (4/16/2020)
 - **What I liked**: I get the sense that your data almost guided you to new areas of research as your project progressed if that makes sense. Basically, I like that you didn't try to make your data something it was not, and adapted to logistical concerns that you had such as L1 disparity.
 - **What could be improved**: You touched on it in your 3rd report, but I think further generalizing the L1's as native and non-native would be helpful for what you're trying to do. I think this would be the best way to address your original hypothesis.
 - **What I learned**: I thought that your l1_fam() method was really informative, especially because I don't really know a lot about different languages, generally speaking. I always thought that language families were interesting when I learned about them in Intro to Linguists.
