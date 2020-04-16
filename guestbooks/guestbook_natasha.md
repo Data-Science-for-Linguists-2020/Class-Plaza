@@ -42,3 +42,8 @@ Welcome to my guestbook!! My project is Twitter Positivity Analysis
 - **What I liked:** I think it's really cool that you're working to refine and expand an already-extant dataset along the lines of the original! Especially given that it contains so much data in languages other than English that might pose some really unique challenges, which you've done a really thorough job of documenting and accounting for; kudos!
 - **What could be improved:** Now that we've worked with a lot of other types of classifiers for homeworks, you might want to consider trying a different model instead of the NLTK implementation of Naive Bayes!
 - **What I learned:** Just how messy Twitter data can be, oof. It's a jungle out there and I have massive respect that you're trying to wrangle it instead of just tossing out the non-English data. Again, major props.
+
+## Joey's Feedback (4/16/2020)
+- **What I liked:** I also worked with Twitter data, however I chose not to scrape it manually. Choosing to get the raw twitter data using tweepy was definitely more difficult than the route I took, so I commend you for that.
+- **What could be improved:** I'm sure this will be improved as your analysis continues, but more markdown cells in your analysis notebook would definitely help you. You're code is a little verbose at time, which is perfectly fine if it works, but explanation in plain english will help your project stand out.
+- **What I learned:** Similar to what Anthony said, I learned how much extra stuff there is when you scrape raw Twitter data (there were 161 columns in your original scrape!) so again, well done for dealing with this.
