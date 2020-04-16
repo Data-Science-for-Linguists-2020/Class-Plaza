@@ -52,4 +52,4 @@ leave some feedback!
 ### Juan's Feedback (4/15/2020)
 - **What I liked**: I think it's nice that you started with a broad focus that you progressively narrowed down. Building a classifier is a good application of what we have done in class. As others have noted, your code is very clearly documented so as a reader it is quite easy to follow. Also kudos for handling a language that doesn't use a Latin-script alphabet.  
 - **What could be improved**: Regarding your (WIP) classifier training and analysis notebook, I agree that combining features could be useful to make the classifier more accurate. The classifier might not be doing as badly as you think, though, if you calculate the baseline based on the number of labels you have (many). An alternative might be to make the labels binary.  
-- **What I learned**: The use of Beautiful (and the handling of the XML files in general) was highly informative and applicable to other projects.
+- **What I learned**: The use of `BeautifulSoup` (and the handling of the `.xml` files in general) was highly informative and applicable to other projects.
