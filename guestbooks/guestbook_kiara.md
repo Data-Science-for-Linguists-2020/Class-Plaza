@@ -29,3 +29,8 @@ ___
   * I find your lack of markdown cells disturbing... just a joke, but going off of previous comments that relate to some objectives being unclear, I feel that explaining what you're doing with more markdown cells would help remedy this a bit.
   * I learned what Beautiful Soup is! My knowledge of html and xml is rather limited, so I definitely applaud you for taking this approach. 
 	* I was never very good with markdowns before because I wasn't used to them, so that's something I wanted to go back and change. I think I was waiting until I had something a little more concrete to add the cells, but I'm probably going to go back in now and then just update the cells whenever.
+___
+* **Lindsey**
+  * It's good to recognize when data isn't too great to work with. Having to start over with different data can be daunting this late in the game, but you did get a ton done once you finally got data that you can work with. I really commend you for that, because if it were me, I'd probably just keep trying to work with the difficult data and burn myself out. 
+  * Might wanna use relative paths in your analysis notebook with those pickle files! I don't have too much other criticism, as you seem to have improved your markdown game since the last update. Good on you!
+  * I'm not familiar with lambda functions at all, but the simplistic way in which you used them in your analysis notebook made them easier to understand for me! 
