@@ -1,4 +1,4 @@
-## Analysis of Japanese Loanwords: Lindsey's Guestbook
+﻿## Analysis of Japanese Loanwords: Lindsey's Guestbook
 Welcome to my Guestbook! As of now, I'm working on cleaning conversation data, hopefully to isolate each speaker's utterances from the .txt files. Any advice or critique is appreciated!
 ### Project Info
 - [Repo Link](https://github.com/Data-Science-for-Linguists-2020/Analysis-of-Japanese-Loanwords)
@@ -30,13 +30,16 @@ Welcome to my Guestbook! As of now, I'm working on cleaning conversation data, h
 - **What is done well:** Your code being so well documented makes following along with your data cleaning process very simple. I especially liked that your markdown cells are in a more narrative style, if you will, which gives the reader the opportunity to follow your exact chain of thinking.
 - **Possible improvements** It seems like your project is going well, but I think some more background information would have been helpful. I'm not too familiar with a lot of the linguistic jargon you use, so even a simple glossary in one of your files would be helpful.
 - **What I learned** So I did some more research and learned about Katakana, but I'm still a little fuzzy and would definitely like to learn more about it. From my current understanding, I think that Katakana is a set of characters that are derived from other languages, or is that too specific?
+*Re: Joey (4/16/2020) - I see your comments about a glossary of some kind and understand completely; when all is said and done, I'll probably put some links in for further reading along with a simple definition of what's going on. You're close on the Katakana definition! The characters are very much Japanese characters, but they're made for (mostly Western) loan words and onomatopoeia. They stand out from other Japanese characters (something I'm going over in my presentation), so they're easy to pick out from a set.*
 
 #### Jordan
 - **What is done well:** It looks like you overcame the challenge of using katakana in Python, well done! Like other commenters have said, your code is well organized and easy to follow
 - **Possible improvements:** Everything looks good in general but I would have liked to see more exploratory analysis just so that I can wrap my head around it better.
 - **What I learned:** Your use of .startswith looks very useful, I'll keep that function in mind in case I need it in the future.
+*Re: Jordan (4/16/2020) - .startswith was a lifesaver, honestly. It wasn't a fix-all because some lines started with an M or F but was really just one speaker referring to another, but it got the job done. Glad everything is easy to follow!*
 
 #### Anthony
 - **What is done well:** Your notebooks are sooooo well-formatted, Lindsey! Very readable and very easy to follow, I can clearly get a picture of your thought process as you're working on your project. Great job.
 - **Possible improvements:** I totally get what you're talking about with "la" (ラ) in your analysis notebook. If you're familiar with Regex, it might be useful the word boundary functions here!
 - **What I learned:** Lots about Japanese! I've never really looked closely at the distinctions between kanji, katakana, and hiragana, so it was fun to take a close look at one of them.
+*Re: Anthony (4/16/2020) - Thank you so much! I try to make things easy to follow because I feel like getting down a thought process will help readers understand why I took certain steps with my process. I, sadly, am not too familiar with regex, but if I find some time to work with it, that's a good solution to the doublecounting issue I'm having.*
