@@ -44,3 +44,8 @@ This file contains peer feedback to my term project, Sentiment Analysis of Trump
 	* Your procedure was informed by your research questions and the overall goal of the project. It was easy to follow the steps of your code and you did a great job manipulating the data frame object. The classifier was a nice addition as well, I was surprised by the accuracy too! I guess there are some very informative features.
 	* All of your data files are too big to be seen directly in the GitHub interface. You could consider adding a small sample that readers don't need to download (or view raw). If you continue working on this later, I agree considering caps themselves as a feature could be informative.
 	* I was unfamiliar with `TextBlob`. It looks like a really useful library for those doing sentiment analysis.
+
+* Kiara's Feedback (4/15)
+	* I like how relevant your project is to our daily lives (we all come into contact with Trump tweets even if we don't want to) so it's cool to see how politics is reflected through his Tweets. 
+	* I agree with what everyone else was saying about tweets in all caps. Also Trump only tweets in English and if I read your notebook correctly, your collection of random tweets include those in other languages. I don't know if those are accounted for or not, but that could have some kind of effect on the sentiment analysis.
+	* I liked learning about TextBlob. If I ever do sentiment analysis for anything I'll def check it out.

@@ -31,4 +31,9 @@
 * Juan's Feedback (4/15)
 	* I'm interested in the acquisition of morphosyntax so it's always nice to read projects like this. Yours is an interesting idea and it's informed by your own experience. Good job defining all the functions that you can reuse later and save space!
 	* I would consider adding some pseudocode as markdown cells to explain what you are doing; at least for the major steps. The visualizations are helpful. I would recommend adding a title and/or legend to them so that they are understandable outside of the notebook.
-	* Interesting use of a tree bank! The use of `lambda` was hihgly informative as well.
+	* Interesting use of a tree bank! The use of `lambda` was highly informative as well.
+
+* Kiara's Feedback (4/15)
+	* I love the use of functions. It'll save time in the future and putting it in a separate notebook everything looking cleaner and more organized.
+	* I was really interested in your project but it was kind of hard to follow along with. I didn't really understand everything that was happening, so maybe an explanation or just a reminder of what's happening would be appreciated!
+	* I liked your use of lambda. I'm actually so impressed with the number of times you used it that I'm going to make an effort to understand it and use it more.
