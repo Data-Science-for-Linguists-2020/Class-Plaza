@@ -35,3 +35,8 @@ ___
   * Might wanna use relative paths in your analysis notebook with those pickle files! I don't have too much other criticism, as you seem to have improved your markdown game since the last update. Good on you!
   * I'm not familiar with lambda functions at all, but the simplistic way in which you used them in your analysis notebook made them easier to understand for me! 
 	* Kiara: Thanks! It was frustrating to work with the old data because I really wanted it to work but I needed to make something happen before the semester ends. I'm def going back after the term ends because I'm not a quitter and I refuse to let it get the best of me. Also: noted about relative paths. I actually tried to do that with everything else because I always forget, but I guess I missed those!
+___
+* **Sean**
+  * You used lots of different code techniques, which is great in a project like this. I wish I would've used lambda and pd in the same way. You also chose good data to work with, in terms of picking things that had clear categories that are easy to compare (e.g. episodes, characters, etc.)
+  * Sometimes I think you could have been more rigorous with your data analysis. For example you talked about TTR not being affected by the sparseness problem, but how did you come to the conclusion that the *n* was equal enough? Other than that, would've just liked to see you dig a little deeper! Great project though.
+  * Like Lindsey, I really appreciated the lambdas. I've never used them and want to pick them up this summer. I was also very impressed and learned from your data scraping--not easy by any means.
